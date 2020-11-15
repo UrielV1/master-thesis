@@ -8,4 +8,4 @@ Cleavage describes the tendency of a crystal to break easily along specific crys
 This work aims to develop an algorithm and a computer program for automatic inspection of crystal structures and prediction of its likely cleavage planes. The algorithm enumerates all possible lattice planes, listing their Miller indices, counting the number of intersected atoms for every plane and its position along the related crystallographic direction. We modelled atoms by thermal ellipsoids - probability density functions (PDFs) derived from their atomic displacement parameters (ADPs). Our algorithm was tested on three inorganic crystal structures Si, ɑ-SiO2 and LiNbO3. 
 We believe that our algorithm can be used for fast, efficient and intuitive prediction of cleavage planes to be further approved by rigorous and more time-consuming density functional theory calculations.
 
-<img src="https://github.com/UrielV1/master-thesis/blob/main/quartz.png" alt="https://github.com/UrielV1/master-thesis/blob/main/quartz" width="500"/>
+<img src="https://github.com/UrielV1/master-thesis/blob/main/quartz.png" alt="https://github.com/UrielV1/master-thesis/blob/main/quartz" width="750"/>
